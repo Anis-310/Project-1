@@ -1,0 +1,87 @@
+body{
+    font-family: font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+
+    
+}
+
+h1{
+    font-size: 40px;
+  
+}
+.tomato-color{
+    color: tomato;
+}
+
+section{
+    display: flex;
+    margin-bottom: 80px;
+    
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    
+    
+    
+}
+
+.half-width img{
+    width: 80%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 20px;
+    font-weight: 800;
+    color: white;
+    border-radius: 5px;
+}
+
+.top-banner{
+    background-image: url("https://lh3.googleusercontent.com/GK9RDyNSkoiRvjS2CGsRMhRxq8w2JisTLkDcD-iDSFsWQtZYDeHyvrnnfne7tnn0k9uFshE=s85");
+    background-repeat: no-repeat;
+    background-size: 300px;
+
+}
+
+.dream-big{
+    background-position: right;
+    background-repeat: no-repeat;
+    background-image: url("https://lh3.googleusercontent.com/vocsOi9bNk9izc9u0VDrmT8OU-twgVYC2BiYHzRbiRQcIkG6xHcS0S0vLuNeUsb392AU=s85");
+    background-size: 80px;
+    
+}
+
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 30px;
+    box-shadow: 10px 5px 40px darkgray;
+  
+    
+}
+#full-stack{
+    border-left: 10px solid;
+    border-image: linear-gradient(tomato lightblue);
+    border-image-slice: 1;
+    
+}
+
+#babe-developer{
+    border-left: 10px solid;
+    border-image: linear-gradient(tomato lightblue);
+    border-image-slice: 1;
+}
+
+.experience-area{
+    background-image: url("https://lh3.googleusercontent.com/ZOF7FjWrJcuIvBbHEYdc0jSKe2mMJ6ZcEDlXGOKCUBzxGFyswug_OLLDfeAfFjQrne3AtQ=s85");
+    background-repeat: no-repeat;
+    background-size: 100px;
+
+}
