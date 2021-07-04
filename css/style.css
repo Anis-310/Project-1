@@ -43,9 +43,9 @@ section{
 }
 
 .top-banner{
-    background-image: url("https://lh3.googleusercontent.com/GK9RDyNSkoiRvjS2CGsRMhRxq8w2JisTLkDcD-iDSFsWQtZYDeHyvrnnfne7tnn0k9uFshE=s85");
+    background-image: url("https://lh3.googleusercontent.com/t-Y9k_jLAclVj0ud0L-_tXgFZQd5tgG_2yRT1VNN3RhGglrKHyMh4T584_iLZ6ZGfZaoE3A=s128");
     background-repeat: no-repeat;
-    background-size: 300px;
+    background-size: 500px;
 
 }
 
@@ -83,5 +83,11 @@ section{
     background-image: url("https://lh3.googleusercontent.com/ZOF7FjWrJcuIvBbHEYdc0jSKe2mMJ6ZcEDlXGOKCUBzxGFyswug_OLLDfeAfFjQrne3AtQ=s85");
     background-repeat: no-repeat;
     background-size: 100px;
+    margin-bottom: 100px;
 
+}
+
+footer{
+    text-align: center;
+   
 }
