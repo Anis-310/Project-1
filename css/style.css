@@ -67,15 +67,13 @@ section{
     
 }
 #full-stack{
-    border-left: 10px solid;
-    border-image: linear-gradient(tomato lightblue);
+    border-left: 10px solid tomato;
     border-image-slice: 1;
     
 }
 
 #babe-developer{
-    border-left: 10px solid;
-    border-image: linear-gradient(tomato lightblue);
+    border-left: 10px solid rgb(80, 102, 228);
     border-image-slice: 1;
 }
 
